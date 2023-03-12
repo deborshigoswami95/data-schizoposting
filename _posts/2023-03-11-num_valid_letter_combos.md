@@ -41,46 +41,19 @@ def count_combos(n):
 ```python
 count_combos(1112)
 ```
-
-
-
-
-    5
-
-
-
+5
 
 ```python
 count_combos(100)
 ```
-
-
-
-
-    0
-
-
-
+0
 
 ```python
 count_combos(11)
 ```
-
-
-
-
-    2
-
-
-
+2
 
 ```python
 count_combos(101)
 ```
-
-
-
-
-    1
-
-
+1
