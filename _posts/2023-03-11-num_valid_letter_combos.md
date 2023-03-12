@@ -1,4 +1,4 @@
-# Number of valid letter combinations
+# Code Exercise: Number of valid letter combinations
 
 This problem was asked to a friend of mine by salesforce. 
 
