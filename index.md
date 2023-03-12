@@ -4,7 +4,5 @@ By day, I am a data scientist. By night, I like to tinker around with things tha
 
 I use this space to post blogs. Hope you enjoy. 
 
-## Posts
-
 
 
